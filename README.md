@@ -1,16 +1,13 @@
-### Hi there 👋
+## Bonjour, et bienvenue sur mon profil Github
 
-<!--
-**SourcierDeVerite/SourcierDeVerite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mes Projets
+Voici tout mes projets réalisés, aussi bien scolaire que professionnel:
 
-Here are some ideas to get you started:
+* [Projet Electronique Embarquée](https://github.com/SourcierDeVerite/Station_Meteo): 
+Voici un projet scolaire dont le but était de réaliser une station météo à l'aide d'une carte arduino et de différents capteurs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [Projet Programmation Orientée Objet](https://github.com/SourcierDeVerite/Projet_POO): 
+Voici un projet scolaire dont le but était de réaliser une application de gestion de stock avec une liason à une Base de Donnée.
+
+* [Projet Bot Discord](https://github.com/SourcierDeVerite/BotMenu): 
+Voici un projet Personnel dont le but était de réaliser un bot discord de modération.
