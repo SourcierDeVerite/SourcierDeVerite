@@ -1,7 +1,7 @@
 ## Bonjour, et bienvenue sur mon profil Github
 
 ### Mes Projets
-Voici tout mes projets réalisés, aussi bien scolaire que professionnel:
+Voici tous mes projets réalisés, aussi bien scolaire que professionnel:
 
 * [Projet Electronique Embarquée](https://github.com/SourcierDeVerite/Station_Meteo): 
 Voici un projet scolaire dont le but était de réaliser une station météo à l'aide d'une carte arduino et de différents capteurs.
